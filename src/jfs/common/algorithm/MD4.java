@@ -2,8 +2,6 @@ package jfs.common.algorithm;
 
 import java.util.Arrays;
 
-import sun.awt.image.BytePackedRaster;
-
 public final class MD4 {
     private byte[] message;
 
