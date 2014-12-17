@@ -9,7 +9,7 @@ public final class MD4 {
     private int A;
     private int B;
     private int C;
-    private int D;
+    private int D; 
     private int[] X;
 
     private static final int word = 32 / 8; // 4
